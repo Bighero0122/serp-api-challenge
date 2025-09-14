@@ -25,6 +25,19 @@ RSpec.describe VanGoghExtractor do
     expect(names.any? { |name| name.include?('starry') }).to be true
   end
 
+  it 'includes thumbnails from HTML' do
+    with_images = result[:artworks].count { |a| a[:image] }
+    expect(with_images).to be > 0
+  end
+
+  it 'no external image requests' do
+    result[:artworks].each do |artwork|
+      if artwork[:image]
+        expect(artwork[:image]).to start_with('data:image')
+      end
+    end
+  end
+
   it 'generates valid JSON' do
     expect { JSON.generate(result) }.not_to raise_error
   end
