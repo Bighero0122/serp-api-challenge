@@ -1,0 +1,52 @@
+{
+  "artworks": [
+    {
+      "name": "The Starry Night",
+      "extensions": [
+        "1889"
+      ],
+      "link": "https://www.google.com/search?q=The+Starry+Night",
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+    },
+    {
+      "name": "Van Gogh self-portrait",
+      "extensions": [
+        "1889"
+      ],
+      "link": "https://www.google.com/search?q=Van+Gogh+self-portrait",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAwElEQVR4Ac3OEZADMRQG4N9pObC0FKscrUSikaV4IBCKP4gtP8pMdKcUCt3EpXR87o6dqex0uoVK28/hw+dpjYCntiWUJlrBkVIWm+bEOKIy6q+MhJf81IobkfDgDI9ax9rlpT5OwSF6ivkoNGwZzIgXYR2ekAvu/ONvHAQMTpPAMJjxhF3r3TqmPLWWJi7UG3ZlXi1VWXxfozkzMmOnoZCcXOEC2ChohbfYNC0uhmDZOCLcUT5qQzb5OVlvHb7SFaOnRHdfgz4gAAAAAElFTkSuQmCC"
+    },
+    {
+      "name": "The Potato Eaters",
+      "extensions": [
+        "1885"
+      ],
+      "link": "https://www.google.com/search?q=The+Potato+Eaters",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b+u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz/6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1+flswMu1EQZ3xlE7lK8eKDkjtwE+crBMV+wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk/9ryhFMAAAAASUVORK5CYII="
+    },
+    {
+      "name": "Wheatfield with Crows",
+      "extensions": [
+        "1890"
+      ],
+      "link": "https://www.google.com/search?q=Wheatfield+with+Crows",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAWCAMAAADkSAzAAAABNVBMVEVHcEzMqkjy7cLDm1XZvVqyeT6ag1PNwKPdyHfPs1vRg1C8lj/Ms3PEmTSqg07Bo1HSvl2WekDPpijSnTjUrzi0lVfGjETKvpLOogDBmQmgeU3NmlePdlCWdkbaskDkx2vpynLktjqlg0nmx1zjwFnZrx69jjKyjT7itRu9fh7Wqgrgt3bcvmjDj03s1HzbsS3Qngbmu0TJoBfGpi7Kfju/nF/VoWCIZzjRq2mdaCeohDThrADiukzSr0W9nk2wjSHoyo6WbznCmwHdoQauk2GvejTQrDbXuVe0hy/ozHvQnx/cuE29kBPNmFDjsS3HlQytj0vnxULEpW6kex7gwWKnayPlv4TIrXTYtnrVtHDcpyLkkk2Hh2LZr3Shdz7VkQDcszbFX0OijS+hciySUiOlakDDpx3G6CE/AAAAH3RSTlMAowVZwfuEESCRisRpf05pWfDAj7WW6jnl4avLoMvZ3vJbCQAAAX1JREFUKJFt0ddSwlAQBuCIQIIUsXfTe2JIA5LQQu8MLTR7e/9HEBAENXu538zZPf8CwKbAgNfr3QEBtzoro7KcQqVjyAUbFoPitTukogb+2X6BYdowgsBCigz+xVvLstA51giU4XZWTegQ9EDRgJeAhQEsCIOK0JA4ZbXWnqQ8FQgCTSF3i6ohMIx3mfT31lCdZArTAveZV+XuYiYyRwKX1NBCw9VshzXeS6VSP6sqeY4gYBwfyHI5utDdftV8HYqmbX88YmY2z5Ek/oxO2+fLsRFfln1LGEUfVown74uZdNpqkykptv4k+3ifGI+S+lx1DPNl6rEGukYAxGhdGDsPuVyONzWR4uqx8sVPBie0zo+c3tjhW+JMa6bJWD68SQjr9UZjPt4S6fhMU1SlebQVXzBBVRw+2aLpuNbpsNTudrYHbLWZmUwyVOlK1E4Dnm0DbxIvIjakKN+eyzn9hp58wIZ2yMWAa5tmTePS42YAeGD0bb8rLR/2R343vgCSjEMLY/XE4wAAAABJRU5ErkJggg=="
+    },
+    {
+      "name": "Café Terrace at Night",
+      "extensions": [
+        "1888"
+      ],
+      "link": "https://www.google.com/search?q=Caf%C3%A9+Terrace+at+Night",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRwWIB0iIiAlJSckKDQlJCMxJx8fLTUtMTk3MTc4Iy00ODMsTzQtLjcBCgoKDQwNGg8PGjclHyU3NTc3Nzc3NzcvMzIyNzc4NS83NS02Ny43ODAzNTcxLzU3NTc1Nzg3NTIvLS04LzU1Lf/AABEIABwAHAMBEQACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAAAAwIFAQQG/8QAJxAAAQMCBQIHAAAAAAAAAAAAAQACAxETBBIxQfCxwQUUISJCYZH/xAAZAQEAAwEBAAAAAAAAAAAAAAAEAAIDBQH/xAAkEQADAAEBBwUAAAAAAAAAAAAAAQIDMQQREhMhMvBBQlGh0f/aAAwDAQACEQMRAD8A5q4tpiq0RlWSI7mFwpE7LXuC3tsLt6/QXEep4aaFRXHKoLv2qlxcLrkYcF0cT45TORmXLtonRXU9TN29yESOo8jvzhRci3Ux2J74T88/BRlJ2R22xMqUQ8ImzXI9SPcB17JGy1rIXbYXSjZkxmHhJzSAkfEepWzzRGrDzgyXoivlx7HyOc3MAdi0It5k63objwOZSZjzkG7HfgXnMj4Lcu/RlWHEaHVYG5ipUIFSoQKlQh//2Q=="
+    },
+    {
+      "name": "Almond Blossoms",
+      "extensions": [
+        "1890"
+      ],
+      "link": "https://www.google.com/search?q=Almond+Blossoms",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABC1BMVEX///+fkpKHd3fn5ORwW1Y/JSWMe3Pu7OpnUlH///+LgX7Px8SPhIFmXFlPREDAt7S/t7SPhIDNxcGHfnuimZZ/eXaYj4zJwL7Fvbq+trO/trPGvbvIwL2ZkI1/eHWIf3z//Pr//fv/+ff//Pn/+PX99fP58u//+Pbj29hUSUU4LChkWlc4LCc8MCxxZ2Q5LCh3bmhEODRnXVo5LSihl5S9tLFRRkLNxMLRycS9tbJWTEiupaPOxcJXTEje1tM8MCvk3Nl5b2zNxcJiWFT37+1jWFX68vCNhID48e5rYV7v5+Wso5/RycVlWlfa0s9ENDTj29mFfHnRycZ7cW7g2NWzq6jf19Xf19Svp6RrYxs7AAAAAXRSTlMAQObYZgAAAKZJREFUeAFcTDUCAjEQnN2cRHD5AdbBK7AaHk1LRQktVuLJKT7N7ighByHKH+9fyBOCCFFk05eRCwCJTyLMc9H1s5FV3glDKVzk0TFN1OkDNhuqVPIfET+iiPfUy/nDp4iJzo5XBhpKwUprw0dlxQgRJmg6ibq6KzDWkJByh4UIAg7A04GQNynbYuS0Jj2jecSOHdgJmzzLAfXvvhUerg7w4wF9xwwAMW8xaus4/JMAAAAASUVORK5CYII="
+    }
+  ]
+}
